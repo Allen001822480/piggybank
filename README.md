@@ -1,2 +1,2 @@
 # piggybank
-An ordinary piggy bank with a piggy banker.
+Your private watchlist.
